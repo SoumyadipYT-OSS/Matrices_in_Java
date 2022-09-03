@@ -1,7 +1,4 @@
-package Applied_Linear_Algebra;
-
 import java.util.Scanner;
-
 public class pr5_multiplying_two_matrices 
 {
 	private static void print2dArray(int[][] matrix)
