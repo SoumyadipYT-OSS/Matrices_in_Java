@@ -1,5 +1,3 @@
-package Applied_Linear_Algebra;
-
 import java.util.Scanner;
 public class pr6_print_identity_matrix 
 {
