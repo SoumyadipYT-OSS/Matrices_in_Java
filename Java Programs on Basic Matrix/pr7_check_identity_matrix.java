@@ -1,5 +1,3 @@
-package Applied_Linear_Algebra;
-
 import java.util.Scanner;
 public class pr7_check_identity_matrix 
 {
