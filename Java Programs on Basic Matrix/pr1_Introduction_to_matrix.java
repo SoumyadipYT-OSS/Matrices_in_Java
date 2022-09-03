@@ -1,5 +1,3 @@
-package Applied_Linear_Algebra;
-
 import java.util.Scanner;
 public class pr1_Introduction_to_matrix 
 {
