@@ -1,5 +1,3 @@
-package Applied_Linear_Algebra;
-
 import java.util.Scanner;
 public class pr3_Adding_two_matrices 
 {
